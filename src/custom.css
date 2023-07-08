@@ -8,12 +8,8 @@ background: linear-gradient(162deg, rgba(156,156,156,0.3113620448179272) 0%, rgb
     z-index: -50;
     left: -144px;
 }
-
-.hidden{
-    display: none;
-}
-
-
+ 
+ 
 .box2{
     width: 600px;
     height: 600px;
